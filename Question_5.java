@@ -1,4 +1,3 @@
-package assignment_2;
 import java.util.*;
 
 public class Question_5 {
